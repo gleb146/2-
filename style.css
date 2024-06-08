@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+a{
+    text-decoration:none;                              
+    font-size: 20px;                              
+    color: white;                              
+    background-color:black;                              
+    padding:10px;                              
+    border-radius:10px;                              
+    margin-top:5px;                              
+}                              
+.programist{
+    color: blue;
+    font-size: 25px;
+}
+.pidbaik{
+    color: blue;
+    font-size: 25px; 
+}
+.begun{
+    color: blue;
+    font-size: 25px; 
+}
+.qwe{
+    background-color: #8500FF ;
+}
+img{
+    border: 3px solid #0016E8;
+}
